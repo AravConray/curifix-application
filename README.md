@@ -1,1 +1,0 @@
-# curifix-application
